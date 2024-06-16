@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    background-image: url("background.jpg");
+}
+.error {
+    color: red;
+    margin-top: 5px;
+}
+.card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
