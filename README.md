@@ -20,3 +20,6 @@ Must use the following for development:
 2.CSS and Bootstrap
 3.JavaScript( Event listeners(onSubmit and onChange), multiple functions, loops,
 if/else ).
+
+
+![image](https://github.com/omdeshmukh19/Form-Validation/assets/151867266/486ee906-e401-4b05-998c-4b4b6a24d304)
